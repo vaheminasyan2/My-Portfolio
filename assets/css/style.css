@@ -1,0 +1,10 @@
+#wrapper {
+    background-image: url("../images/background-image.png");
+    }
+#main {
+    padding: 20px !important;
+}
+#footer {
+    height: 40px !important;
+    line-height: 40px !important;
+}
