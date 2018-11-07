@@ -1,10 +1,20 @@
 #wrapper {
     background-image: url("../images/background-image.png");
-    }
+    };
+
 #main {
     padding: 20px !important;
-}
+    width: 70%;
+};
+
 #footer {
     height: 40px !important;
     line-height: 40px !important;
+};
+
+nav {
+    font-size: 24px;
 }
+/* .card-img-top{
+    max-width: 10rem;
+} */
