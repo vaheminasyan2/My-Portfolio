@@ -48,3 +48,7 @@ nav {
 .name:hover {
     color: rgb(71, 5, 71)!important
 }
+
+.cardDiv {
+    margin-left: 1%
+}
