@@ -1,10 +1,10 @@
 /*!
  * Start Bootstrap - Grayscale v5.0.8 (https://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2019 Start Bootstrap
+ * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
- #mainNav {
+#mainNav {
   min-height: 56px;
   background-color: #fff;
 }
@@ -102,9 +102,9 @@
 
 .masthead h1 {
   font-family: 'Varela Round';
-  font-size: 1.5rem;
-  line-height: 1.8rem;
-  letter-spacing: 0.2rem;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+  letter-spacing: 0.8rem;
   background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -117,7 +117,7 @@
 
 @media (min-width: 768px) {
   .masthead h1 {
-    font-size: 2.5rem;
+    font-size: 4rem;
     line-height: 4rem;
   }
 }
@@ -128,7 +128,7 @@
     padding: 0;
   }
   .masthead h1 {
-    font-size: 3rem;
+    font-size: 6.5rem;
     line-height: 6.5rem;
     letter-spacing: 0.8rem;
   }
@@ -146,16 +146,6 @@
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: .15rem;
-  border: 0;
-}
-
-.button {
-  -webkit-box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-  padding: 0.5rem 1rem;
-  font-family: 'Varela Round';
-  font-size: 80%;
-  text-transform: uppercase;
   border: 0;
 }
 
@@ -177,18 +167,17 @@
 }
 
 .about-section {
-  padding-top: 5rem;
+  padding-top: 10rem;
   background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
   background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
-  font-size: 1.1rem;
 }
 
 .about-section p {
-  margin-bottom: 6.5rem;
+  margin-bottom: 5rem;
 }
 
 .projects-section {
-  padding: 5rem 0;
+  padding: 10rem 0;
 }
 
 .projects-section .featured-text {
@@ -241,7 +230,7 @@
 }
 
 .contact-section {
-  padding: 2rem 0 0;
+  padding: 5rem 0 0;
 }
 
 .contact-section .card {
